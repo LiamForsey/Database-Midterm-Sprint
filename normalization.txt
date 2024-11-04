@@ -1,0 +1,5 @@
+2. Normalization:
+
+All three tables—Movies, Customers, and Rentals—are set up to meet the requirements of third normal form. This means they keep data organized by
+making sure every piece of information depends on its main identifier (the primary key) and that there aren’t any unnecessary links between 
+non-key attributes. This helps cut down on repeated data and avoids problems when updating information.
